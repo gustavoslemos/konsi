@@ -3,6 +3,7 @@ import requests
 # import gspread
 # from oauth2client.service_account import ServiceAccountCredentials
 
+# url da api do adjust -> https://help.adjust.com/en/developer
 url = 'https://dash.adjust.com/control-center/reports-service/csv_report'
 headers = {
     'Authorization': 'Bearer ccKyFVLyg9DjvE53NmL-'
